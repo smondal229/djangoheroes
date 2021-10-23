@@ -1,4 +1,3 @@
-import datetime
 import timeit
 
 from rest_framework import status
